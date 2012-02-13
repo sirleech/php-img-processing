@@ -1,10 +1,16 @@
 Req Pkgs:
 
 PHP5
-    php5  curl php5-curl php5-xcache php-pear php5-dev 
+
+~~~
+php5  curl php5-curl php5-xcache php-pear php5-dev 
+~~~
 
 GD
+
+~~~
     php5-gd
+~~~
 
 PHP Imagick
     sudo apt-get install imagemagick libmagick9-dev
